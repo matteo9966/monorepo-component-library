@@ -98,3 +98,8 @@ The GitHub Actions workflow runs on every push and pull request to `main`:
 - Use `forwardRef` on all components and preserve `className` / `style` props.
 - Avoid `any` — use explicit prop types.
 - No default exports from component packages (use named exports).
+
+
+## Reference guide 
+
+https://medium.com/@anandkumar.code/how-a-monorepo-pnpm-and-changesets-transformed-my-multi-package-workflow-7c1771bba898
