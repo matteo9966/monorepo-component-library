@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo-component-library/button",
+  "name": "@matteo-l-tommasi/button",
   "version": "0.0.0",
   "description": "A reusable, accessible Button component",
   "main": "./dist/index.js",

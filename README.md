@@ -103,3 +103,7 @@ The GitHub Actions workflow runs on every push and pull request to `main`:
 ## Reference guide 
 
 https://medium.com/@anandkumar.code/how-a-monorepo-pnpm-and-changesets-transformed-my-multi-package-workflow-7c1771bba898
+
+to publish a package
+
+npm publish --access public

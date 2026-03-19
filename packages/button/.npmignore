@@ -1,0 +1,33 @@
+# Ignore source files
+src/
+
+# Ignore test files
+*.test.*
+
+# Ignore configuration files
+*.config.*
+
+# Ignore other unnecessary files
+*.md
+scripts/
+
+# Ignore source code (it's already compiled in dist)
+src/
+
+# Ignore configuration files
+tsconfig.json
+vite.config.ts
+tsdown.config.ts
+
+# Ignore documentation/dev folders
+.storybook/
+stories/
+*.stories.tsx
+*.test.tsx
+*.test.ts
+
+# Ignore logs and system files
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.DS_Store
